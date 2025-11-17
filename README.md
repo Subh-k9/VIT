@@ -1,7 +1,7 @@
 
 # 1. Steps t run the code
 Open a terminal and run:
-bash
+'''bash
 mkdir VIT
 cd VIT
 here you clone the repo inside this 
