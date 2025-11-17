@@ -1,13 +1,5 @@
 
-#  Vision Transformer (VIT) Project — Setup Instructions
-
-This repository contains all Python files required to run the Vision Transformer (VIT) project.  
-Follow the steps below to correctly set up the folder structure, environment, dependencies, and execution steps.
-
----
-
-# 1. Create a Folder Named `VIT`
-
+# 1. Steps t run the code
 Open a terminal and run:
 
 ```bash
