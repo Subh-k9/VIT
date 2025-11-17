@@ -8,11 +8,12 @@ Follow the steps below to correctly set up the folder structure, environment, de
 
 ---
 
-## 📁 1. Create a Folder Named `VIT`
+# 1. Create a Folder Named `VIT`
 
 Open a terminal and run:
 
 ```bash
 mkdir VIT
 cd VIT
+here you clone my repo inside this 
 
